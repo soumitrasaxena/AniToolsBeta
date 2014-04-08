@@ -13,3 +13,7 @@ How It Works :
 3. The script generates a path for the animation for the frame range.
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+BlogLink : https://medium.com/p/f922967897ad
+
+Youtube Link : https://www.youtube.com/watch?v=HeEKKQdYbdo

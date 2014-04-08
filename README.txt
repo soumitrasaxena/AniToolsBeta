@@ -2,7 +2,6 @@ A set of Python scripts aimed at helping animators.  Useful especially for parti
 
 The package contains the following scripts - 
 
-
 1. Collision Checker 1.0 - This plugin makes collision checking a one click job. Just select the meshes you want to check , choose the frame range , and click ! It returns the frames in which
 collision occurs. This aims at helping animators check for animation errors such as intersecting meshes. This uses the Maya API ( OpenMaya) for checking mesh intersections.
 

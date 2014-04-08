@@ -10,3 +10,7 @@ collision occurs. This aims at helping animators check for animation errors such
 helps in better visualisation of animation , and makes checking for collisions easier.
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+Blog Link : https://medium.com/@soumitrasaxena/latest
+
+Youtube Link : https://www.youtube.com/watch?v=pI4nC7vMrYE&list=PLqoVt6DmOxN3Cfy2-BYqp-bynRdMKNlP3

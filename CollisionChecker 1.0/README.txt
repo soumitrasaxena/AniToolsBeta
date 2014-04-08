@@ -18,3 +18,7 @@ How It Works :
 4. The script returns the frames in which intersection/collision occurs.
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+Blog Link : https://medium.com/p/a860267ddc31
+
+Youtube Link : https://www.youtube.com/watch?v=pI4nC7vMrYE
